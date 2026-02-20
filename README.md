@@ -26,3 +26,13 @@ The objective of the Palindrome Checker App is to design and implement a console
   4. Program exits.
 - **Key Concepts:** String, String Literal, Conditional Statement (if-else), Console Output, StringBuilder.
 - **Data Structure:** String
+
+### UC3: Palindrome Check Using String Reverse
+- **Goal:** Check whether a string is a palindrome by reversing it using a loop.
+- **Actor:** User
+- **Flow:**
+  1. Reverse string using a for loop.
+  2. Compare original and reversed strings.
+  3. Display result.
+- **Key Concepts:** For Loop, String Immutability, String Concatenation (`+`), `equals()` Method.
+- **Data Structure:** String
