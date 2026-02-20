@@ -15,3 +15,14 @@ The objective of the Palindrome Checker App is to design and implement a console
   4. Application version is displayed.
   5. Program continues to next use case or exits.
 - **Key Concepts:** Class, Main Method, Static Keyword, Console Output (`System.out.println()`), Application Flow Control.
+
+### UC2: Print a Hardcoded Palindrome Result
+- **Goal:** Display whether a hardcoded string is a palindrome.
+- **Actor:** User
+- **Flow:**
+  1. Program starts.
+  2. Hardcoded string (`"madam"`) is checked.
+  3. Result is printed.
+  4. Program exits.
+- **Key Concepts:** String, String Literal, Conditional Statement (if-else), Console Output, StringBuilder.
+- **Data Structure:** String
